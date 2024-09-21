@@ -1,7 +1,7 @@
 # 🌱 Eren Berke Dogan
 **` College Student (Entrepreneur/Developer/Engineer) `**
 
-I'm a software developer and upcoming NJIT Fintech and Computer Science double major with strong entrepreneurial ambitions.  I'm driven by a passion for building my corner of the digital world, crafting coding projects from the ground up. Whether meticulously planning and designing the foundation or solving real-world problems with elegant code, I love the entire development process.
+I'm a software developer Computer Science major with strong entrepreneurial ambitions.  I'm driven by a passion for building my corner of the digital world, crafting coding projects from the ground up. Whether meticulously planning and designing the foundation or solving real-world problems with elegant code, I love the entire development process.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&pause=1000&color=66D2F7&center=true&vCenter=true&random=false&width=1000&lines=AI+Engineer+%26+Software+Developer+)](https://git.io/typing-svg)
 
