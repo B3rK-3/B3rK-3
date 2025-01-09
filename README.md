@@ -6,7 +6,7 @@ I'm a software developer Computer Science major with strong entrepreneurial ambi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&pause=1000&color=66D2F7&center=true&vCenter=true&random=false&width=1000&lines=AI+Engineer+%26+Software+Developer+)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/eren-dogan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<a href="https://www.linkedin.com/in/eren-berke-dogan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 <a href="https://discord.gg/xD2C37ZG" alt="Discord" title="Friend Me On Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
 </p>
 
