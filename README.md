@@ -1,11 +1,11 @@
 # 🌱 Alpha1
-<pre><code lang="life" data-comment="you found the easter egg">Human alpha1 = new Human(lifespan: 70); //optimistic
+<pre><code lang="life" data-comment="you found the easter egg">Human alpha01 = new Human(lifespan: 70); //optimistic
 while (alpha1.alive) {
-  alpha1.eat();
-  alpha1.study();
-  alpha1.work();
-  alpha1.sleep();
-  alpha1.anotherDayGone();
+  alpha01.eat();
+  alpha01.study();
+  alpha01.work();
+  alpha01.sleep();
+  alpha01.anotherDayGone();
 }
-alpha1.enterHell();
+alpha01.enterHell();
 </code></pre>
